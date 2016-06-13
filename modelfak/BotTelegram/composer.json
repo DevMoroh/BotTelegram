@@ -1,0 +1,7 @@
+{
+  "name": "modelfak/BotTelegram",
+  "description": "BotTelegram",
+  "require": {
+    "php": ">=5.3.3"
+  }
+}
